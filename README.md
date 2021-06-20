@@ -50,11 +50,17 @@ The project output will help Jeremy and the data analytics team do the following
    
    ![image](https://user-images.githubusercontent.com/80365882/122660011-5c2daf80-d132-11eb-9867-7ddfdfbbdf71.png)
    
-   ##### Results Model
+   ##### Summery
+   
+   mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD + (-104.0)
    
    ![image](https://user-images.githubusercontent.com/80365882/122660032-939c5c00-d132-11eb-8356-1aa34644f6c0.png)
 
-##### Summery on the model
+##### Summery on the results
+
+The results shows us:
+
+    1.  The vehicle length, and vehicle ground clearance are statistically likely to provide non-random amounts of variance to the model. That is to say, the vehicle length and vehicle ground clearance have a significant impact on miles per gallon on the MechaCar prototype. Conversely, the vehicle weight, spoiler angle, and All Wheel Drive (AWD) have p-Values that indicate a random amount of variance with the dataset.
 
 
 
