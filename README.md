@@ -64,13 +64,30 @@ The project output will help Jeremy and the data analytics team do the following
     
     3. This linear model has an r-squared value of 0.7149, which means that approximately 71% of all mpg predictions will be determined by this model. 
 
-If we remove the less impactful independent variables (vehicle weight, spoiler angle, and All Wheel Drive), the predictability does decrease, but not drastically: the r-squared value falls from 0.7149 to 0.674.
+There is no significant impact on the removal of less independent variables (vehicle weight, spoiler angle, and All Wheel Drive),  but the r-squared value falls from 0.7149 to 0.674.
 
 ![image](https://user-images.githubusercontent.com/80365882/122988301-7051f680-d356-11eb-98a3-4d16b2f5c288.png)
 
 
 ##  Deliverable 2: Summary Statistics on Suspension Coils
+
+THe requirements for Deliverable 2 results are:
+
+     .  The Suspension_Coil.csv file is imported and read into a dataframe
+     
+     . An RScript is written to create a total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots
+     
+     . An RScript is written to create a lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot
+     
+     . There is a summary that addresses the design specification requirement for all the manufacturing lots and each lot individually
     
+##### total_summary dataframe :
+
+![image](https://user-images.githubusercontent.com/80365882/122989798-181bf400-d358-11eb-9c44-05ce299d41b3.png)
+
+##### lot_summary dataframe:
+
+![image](https://user-images.githubusercontent.com/80365882/122989924-397ce000-d358-11eb-9852-fdb8eaddd93d.png)
 
 
 
