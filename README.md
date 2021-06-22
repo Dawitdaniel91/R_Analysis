@@ -99,6 +99,29 @@ With the understanding that the design specifications for the MechaCar suspensio
 ![image](https://user-images.githubusercontent.com/80365882/122993552-4bf91880-d35c-11eb-82d8-e39b238299cc.png)
 
 
+## Deliverable 3: T-Test on Suspension Coils
+
+##### summary of the t-test results across all manufacturing lots
+
+##### T-test for lot1
+
+![image](https://user-images.githubusercontent.com/80365882/122995399-69c77d00-d35e-11eb-9bdf-213b3625036e.png)
+
+From the above T-test results,the true mean of the sample is 1498.78, which we also saw in the total_summary dataframe above. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. That is to say, the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
+
+##### T-test for lot-1
+
+![image](https://user-images.githubusercontent.com/80365882/122995431-75b33f00-d35e-11eb-8a8e-9f004ef582d5.png)
+
+##### T-test for lot-2
+
+![image](https://user-images.githubusercontent.com/80365882/122995534-95e2fe00-d35e-11eb-993f-f61e005743ee.png)
+
+##### T-test for lot-3
+
+![image](https://user-images.githubusercontent.com/80365882/122995568-9ed3cf80-d35e-11eb-996b-f557222bed96.png)
+
+
 
 
  
