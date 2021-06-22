@@ -56,11 +56,15 @@ The project output will help Jeremy and the data analytics team do the following
    
    ![image](https://user-images.githubusercontent.com/80365882/122660032-939c5c00-d132-11eb-8356-1aa34644f6c0.png)
 
-##### Summery on the results
+###### The results shows us:
 
-The results shows us:
-
-    1.  The vehicle length, and vehicle ground clearance are statistically likely to provide non-random amounts of variance to the model. That is to say, the vehicle length and vehicle ground clearance have a significant impact on miles per gallon on the MechaCar prototype. Conversely, the vehicle weight, spoiler angle, and All Wheel Drive (AWD) have p-Values that indicate a random amount of variance with the dataset.
+    1.  The vehicle length and vehicle ground clearance have a significant impact on miles per gallon on the MechaCar prototype. 
+    
+    2. The p-Value for this model, p-Value: 5.35e-11, is much smaller than the assumed significance level of 0.05%. This indicates there is sufficient evidence to reject our            null hypothesis, which further indcates that the slope of this linear model is not zero.
+    
+    3. This linear model has an r-squared value of 0.7149, which means that approximately 71% of all mpg predictions will be determined by this model. 
+    
+    
 
 
 
