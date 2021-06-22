@@ -94,7 +94,7 @@ With the understanding that the design specifications for the MechaCar suspensio
 
  Lot 1 and Lot 2 are well within the 100 PSI variance requirement; with variances of 0.98 and 7.47 respectively. However, it is Lot 3 that is showing much larger variance in performance and consistency, with a variance of 170.29. It is Lot 3 that is disproportionately causing the variance at the full lot level.
 
-This very simple boxplot illustrates the differences between the lots:
+##### This boxplot illustrates the differences between the lots:
 
 ![image](https://user-images.githubusercontent.com/80365882/122993552-4bf91880-d35c-11eb-82d8-e39b238299cc.png)
 
