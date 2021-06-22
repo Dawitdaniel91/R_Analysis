@@ -90,6 +90,16 @@ THe requirements for Deliverable 2 results are:
 ![image](https://user-images.githubusercontent.com/80365882/122989924-397ce000-d358-11eb-9852-fdb8eaddd93d.png)
 
 
+With the understanding that the design specifications for the MechaCar suspension coils mandate that the variance of the suspension coils cannot exceed 100 pounds per square inch (PSI), the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement.
+
+ Lot 1 and Lot 2 are well within the 100 PSI variance requirement; with variances of 0.98 and 7.47 respectively. However, it is Lot 3 that is showing much larger variance in performance and consistency, with a variance of 170.29. It is Lot 3 that is disproportionately causing the variance at the full lot level.
+
+This very simple boxplot illustrates the differences between the lots:
+
+![image](https://user-images.githubusercontent.com/80365882/122993552-4bf91880-d35c-11eb-82d8-e39b238299cc.png)
+
+
+
 
  
  
