@@ -134,15 +134,15 @@ Lot 3, not surprisingly is a different scenario. Here the sample mean is 1496.14
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 
-##### A metric to be tested is mentioned below:
+##### One feature that people are interested in when buying a car is how much horsepower the car has. I think , the follwing factors that go into consumer decision making.:
 
-     . Safety Feature Rating: Independent Variable
+     . horsepower:Independent Variable
      . Current Price (Selling): Dependent Variable
-     . Drive Package : Independent Variable
-     . Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
-     . Resale Value: Independent Variable
-     . Average Annual Cost of ownership (Maintenance): Independent Variable
-     . MPG (Gasoline Efficiency): Independent Variable
+     . mpg:Independent Variable
+     . Engine type (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+     . large engine:Independent Variable
+     . Cost of Maintenance: Independent Variable
+     .
 
 ##### Hypothesis: Null and Alternative
 
@@ -154,7 +154,6 @@ After determining which factors are key for the MechaCar's genre:
 
  ##### Statistical Tests
  
- A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!)
- 
+ A multiple linear regression measure will be needed to determine the factors that have the highest correlation with the dependent variable; which combination has the greatest impact .
  
   
