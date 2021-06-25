@@ -148,8 +148,9 @@ Lot 3, not surprisingly is a different scenario. Here the sample mean is 1496.14
 
 After determining which factors are key for the MechaCar's genre:
 
-   . Null Hypothesis (Ho): MechaCar is priced based on its performance of key factors .
-   . Alternative Hypothesis (Ha): MechaCar is NOT priced  based on performance of key factors.
+       . Null Hypothesis (Ho): MechaCar is priced based on its performance of key factors.
+   
+      . Alternative Hypothesis (Ha): MechaCar is NOT priced  based on performance of key factors.
 
 
  ##### Statistical Tests
